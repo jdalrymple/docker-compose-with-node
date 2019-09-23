@@ -1,4 +1,4 @@
-FROM docker:18.06.1-ce
+FROM docker:19.03
 
 # You cannot follow docker's offcial guideline to install docker compose. It
 # is not compatibility with alpine. Please following alpine's guideline
